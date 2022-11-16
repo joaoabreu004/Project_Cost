@@ -101,6 +101,70 @@
       "cost": 0,
       "services": [],
       "id": 11
+    },
+    {
+      "name": "Designer da Televisão",
+      "budget ": "5000",
+      "category": {
+        "id": "3",
+        "nome": "Designer"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 12
+    },
+    {
+      "cost": 0,
+      "services": [],
+      "id": 13
+    },
+    {
+      "cost": 0,
+      "services": [],
+      "id": 14
+    },
+    {
+      "name": "Designer Academia",
+      "budget ": "9000",
+      "category": {
+        "id": "3",
+        "nome": "Designer"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 15
+    },
+    {
+      "cost": 0,
+      "services": [],
+      "id": 16
+    },
+    {
+      "cost": 0,
+      "services": [],
+      "id": 17
+    },
+    {
+      "name": "Teste ",
+      "budget ": "10000",
+      "category": {
+        "id": "2",
+        "nome": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 18
+    },
+    {
+      "name": "Teste",
+      "budget ": "10000",
+      "category": {
+        "id": "2",
+        "nome": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 19
     }
   ],
   "categories": [
